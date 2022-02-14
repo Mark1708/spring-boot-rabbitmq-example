@@ -1,4 +1,4 @@
-# spring-boot-kafka-example
+# spring-boot-rabbitmq-example
 ![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=Java) ![Spring](https://img.shields.io/badge/-Spring-0a0a0a?style=for-the-badge&logo=Spring) 
 ![Spring](https://img.shields.io/badge/-RabbitMQ-0a0a0a?style=for-the-badge&logo=rabbitmq)
 <br/>
